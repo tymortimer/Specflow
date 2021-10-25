@@ -1,0 +1,48 @@
+C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.deps.json
+C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.dll
+C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\ClassLibrary1\bin\Debug\net5.0\ref\ClassLibrary1.dll
+C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.pdb
+C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.dll
+C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ref\ClassLibrary1.dll
+C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.pdb
+C:\Users\engr\Desktop\inclass\inClassProject1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.deps.json
+C:\Users\engr\Desktop\inclass\inClassProject1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.dll
+C:\Users\engr\Desktop\inclass\inClassProject1\ClassLibrary1\bin\Debug\net5.0\ref\ClassLibrary1.dll
+C:\Users\engr\Desktop\inclass\inClassProject1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.pdb
+C:\Users\engr\Desktop\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.AssemblyReference.cache
+C:\Users\engr\Desktop\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\engr\Desktop\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfoInputs.cache
+C:\Users\engr\Desktop\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfo.cs
+C:\Users\engr\Desktop\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\engr\Desktop\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.dll
+C:\Users\engr\Desktop\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ref\ClassLibrary1.dll
+C:\Users\engr\Desktop\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.pdb
+E:\inclass\inClassProject1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.deps.json
+E:\inclass\inClassProject1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.dll
+E:\inclass\inClassProject1\ClassLibrary1\bin\Debug\net5.0\ref\ClassLibrary1.dll
+E:\inclass\inClassProject1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.pdb
+E:\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.AssemblyReference.cache
+E:\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+E:\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfoInputs.cache
+E:\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfo.cs
+E:\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+E:\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.dll
+E:\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ref\ClassLibrary1.dll
+E:\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.pdb
+D:\inclass\inClassProject1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.deps.json
+D:\inclass\inClassProject1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.dll
+D:\inclass\inClassProject1\ClassLibrary1\bin\Debug\net5.0\ref\ClassLibrary1.dll
+D:\inclass\inClassProject1\ClassLibrary1\bin\Debug\net5.0\ClassLibrary1.pdb
+D:\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.AssemblyReference.cache
+D:\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+D:\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfoInputs.cache
+D:\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.AssemblyInfo.cs
+D:\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.csproj.CoreCompileInputs.cache
+D:\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.dll
+D:\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ref\ClassLibrary1.dll
+D:\inclass\inClassProject1\ClassLibrary1\obj\Debug\net5.0\ClassLibrary1.pdb
