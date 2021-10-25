@@ -1,0 +1,213 @@
+﻿2021-10-18T13:52:43.1282594-06:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2021-10-18T13:52:43.1284518-06:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.9.7 in Framework net50 in x64 mode execution started
+2021-10-18T13:52:43.1284550-06:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2021-10-18T13:52:43.1305238-06:00;VSTestExecutionThread;Info;Current UserName: 'Ty Mortimer', MachineName: 'DESKTOP-348I3R7'
+2021-10-18T13:52:43.1559005-06:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\SpecFlowProject1.dll
+2021-10-18T13:52:43.1560361-06:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\TestResults" (default)
+2021-10-18T13:52:43.1560797-06:00;VSTestExecutionThread;Info;Profile: 
+2021-10-18T13:52:43.1862280-06:00;VSTestExecutionThread;Info;Log file path: C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\TestResults\Unnamed project__2021-10-18T135243.log
+2021-10-18T13:52:43.1894381-06:00;Thread#12;Info;Checking activation
+2021-10-18T13:52:43.2489511-06:00;Thread#12;Info;Activated.
+2021-10-18T13:52:43.2491178-06:00;Thread#12;Info;Activation check completed
+2021-10-18T13:52:43.2491762-06:00;Thread#12;Info;Starting test run
+2021-10-18T13:52:43.3129509-06:00;Thread#12;Info;Discovering target: Default
+2021-10-18T13:52:43.3131068-06:00;Thread#12;Info;Discovering tests from assembly: C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\SpecFlowProject1.dll
+2021-10-18T13:52:43.3652827-06:00;Thread#12;Info;Discovered tests from assembly: C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\SpecFlowProject1.dll
+2021-10-18T13:52:43.3661509-06:00:Test Suite Dump
+2021-10-18T13:52:43.3674933-06:00:#0: Unnamed project/ - 
+2021-10-18T13:52:43.3675070-06:00:#1: Default - 
+2021-10-18T13:52:43.3675086-06:00:#2: SpecFlowProject1 - 
+2021-10-18T13:52:43.3675096-06:00:#3: Calculator - 
+2021-10-18T13:52:43.3682811-06:00:#4: Add two numbers - TestAssembly:SpecFlowProject1/Feature:Calculator/Scenario:Add+two+numbers
+2021-10-18T13:52:43.3683256-06:00:#5: Subtract two numbers - TestAssembly:SpecFlowProject1/Feature:Calculator/Scenario:Subtract+two+numbers
+2021-10-18T13:52:43.3683595-06:00:End: Test Suite Dump
+2021-10-18T13:52:43.3808632-06:00:Thread#0:Scheduler: get next test for thread 0
+2021-10-18T13:52:43.3818946-06:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2021-10-18T13:52:43.3819265-06:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2021-10-18T13:52:43.3837452-06:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2021-10-18T13:52:43.3837519-06:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2021-10-18T13:52:43.3837533-06:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2021-10-18T13:52:43.3837548-06:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2021-10-18T13:52:43.3841699-06:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2021-10-18T13:52:43.3847983-06:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-10-18T13:52:43.3863627-06:00:Thread #0: creating new test thread executor for SpecFlowProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2021-10-18T13:52:43.3880690-06:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-10-18T13:52:43.3882455-06:00:Thread #0: Creating test assembly executor for execution model OutProc
+2021-10-18T13:52:43.3896222-06:00:Thread #0: using TechTalk.SpecRun.Framework.Execution.OutOfProc.StreamJsonRPC.OutOfProcessTestAssemblyExecutorHost to execute tests
+2021-10-18T13:52:43.3909897-06:00:starting Out Of Process Executor
+2021-10-18T13:52:43.3921970-06:00:Assembly resolving Microsoft.VisualStudio.Validation, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-10-18T13:52:43.3939790-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' from .deps.json file
+2021-10-18T13:52:43.3939938-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' from .deps.json
+2021-10-18T13:52:43.3950682-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0'
+2021-10-18T13:52:43.3954057-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\Microsoft.VisualStudio.Validation.dll'
+2021-10-18T13:52:43.3955464-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\Microsoft.VisualStudio.Validation.exe'
+2021-10-18T13:52:43.3956280-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0'
+2021-10-18T13:52:43.3958057-06:00:TargetFramework: .NETCoreApp,Version=v5.0
+2021-10-18T13:52:43.3962539-06:00:Tfm: netcoreapp5.0
+2021-10-18T13:52:43.3962622-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-10-18T13:52:43.3962634-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Validation.dll'
+2021-10-18T13:52:43.3963308-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Validation.exe'
+2021-10-18T13:52:43.3963654-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-10-18T13:52:43.4001167-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9'
+2021-10-18T13:52:43.4001245-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.VisualStudio.Validation.dll'
+2021-10-18T13:52:43.4001752-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.VisualStudio.Validation.exe'
+2021-10-18T13:52:43.4002041-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9'
+2021-10-18T13:52:43.4003270-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9'
+2021-10-18T13:52:43.4003320-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\Microsoft.VisualStudio.Validation.dll'
+2021-10-18T13:52:43.4003668-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\Microsoft.VisualStudio.Validation.exe'
+2021-10-18T13:52:43.4003939-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9'
+2021-10-18T13:52:43.4004862-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.9'
+2021-10-18T13:52:43.4004906-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.9\Microsoft.VisualStudio.Validation.dll'
+2021-10-18T13:52:43.4005249-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Validation' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.9\Microsoft.VisualStudio.Validation.exe'
+2021-10-18T13:52:43.4005514-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Validation' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.9'
+2021-10-18T13:52:43.4022302-06:00:Starting callback TCP Rpc server
+2021-10-18T13:52:43.4118553-06:00:Asynchronously starting background TCP Rpc Server on port 32768
+2021-10-18T13:52:43.4118925-06:00:Started callback TCP Rpc server on port 32768
+2021-10-18T13:52:43.4118971-06:00:Starting logger TCP Rpc server
+2021-10-18T13:52:43.4133846-06:00:Asynchronously starting background TCP Rpc Server on port 32769
+2021-10-18T13:52:43.4133993-06:00:Started logger TCP Rpc server on port 32769
+2021-10-18T13:52:43.4624147-06:00:Executing test executor at 'dotnet' 'exec "C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\SpecFlowPlusRunner\net5.0\TechTalk.SpecRun.Framework.Executor.anycpu.net5_0.dll" --remoteRunnerPid 10572 --uniqueId "2021-10-18T135243" --outputFolder "C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\TestResults" --callbackPort 32768 --loggerPort 32769' in 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0'
+2021-10-18T13:52:43.4683548-06:00:Executor with PID 4640 has been started successfully.
+2021-10-18T13:52:43.4703521-06:00:Out of Process Executor 4640 started
+2021-10-18T13:52:43.4703643-06:00:Waiting for endpoint
+2021-10-18T13:52:43.7275021-06:00:Assembly resolving Microsoft.VisualStudio.Threading, Version=15.3.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-10-18T13:52:43.7275224-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' from .deps.json file
+2021-10-18T13:52:43.7275267-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' from .deps.json
+2021-10-18T13:52:43.7275337-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0'
+2021-10-18T13:52:43.7275354-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\Microsoft.VisualStudio.Threading.dll'
+2021-10-18T13:52:43.7275848-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\Microsoft.VisualStudio.Threading.exe'
+2021-10-18T13:52:43.7276366-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0'
+2021-10-18T13:52:43.7276412-06:00:TargetFramework: .NETCoreApp,Version=v5.0
+2021-10-18T13:52:43.7276702-06:00:Tfm: netcoreapp5.0
+2021-10-18T13:52:43.7276756-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-10-18T13:52:43.7276786-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Threading.dll'
+2021-10-18T13:52:43.7277596-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0\Microsoft.VisualStudio.Threading.exe'
+2021-10-18T13:52:43.7278123-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\SpecFlowPlusRunner\netcoreapp5.0'
+2021-10-18T13:52:43.7283058-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9'
+2021-10-18T13:52:43.7283187-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.VisualStudio.Threading.dll'
+2021-10-18T13:52:43.7284078-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9\Microsoft.VisualStudio.Threading.exe'
+2021-10-18T13:52:43.7284714-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\5.0.9'
+2021-10-18T13:52:43.7286394-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9'
+2021-10-18T13:52:43.7286469-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\Microsoft.VisualStudio.Threading.dll'
+2021-10-18T13:52:43.7287023-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9\Microsoft.VisualStudio.Threading.exe'
+2021-10-18T13:52:43.7287469-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.9'
+2021-10-18T13:52:43.7289684-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.9'
+2021-10-18T13:52:43.7289740-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.9\Microsoft.VisualStudio.Threading.dll'
+2021-10-18T13:52:43.7290333-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.Threading' to 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.9\Microsoft.VisualStudio.Threading.exe'
+2021-10-18T13:52:43.7290849-06:00:[AssemblyCache] Could not resolve 'Microsoft.VisualStudio.Threading' in folder 'C:\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\5.0.9'
+2021-10-18T13:52:43.8820521-06:00:Remote executor port received: 32770
+2021-10-18T13:52:43.8822587-06:00:Creating executor TCP client on port 32770
+2021-10-18T13:52:43.8825051-06:00:Created executor TCP client on port 32770
+2021-10-18T13:52:43.8825107-06:00:Connecting to remote executor TCP server
+2021-10-18T13:52:43.8831512-06:00:Connected remote executor TCP server
+2021-10-18T13:52:43.8832392-06:00:trying to connect to Out of Process Executor the 1 attempt
+2021-10-18T13:52:43.8832608-06:00:Connection to Out of Process Executor established in the 1 attempt
+2021-10-18T13:52:43.9912862-06:00:2021-10-18T13:52:43.9904957-06:00:OutOfProcessTestAssemblyExecutor: initialized for C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\SpecFlowProject1.dll on test thread #0
+2021-10-18T13:52:43.9949474-06:00:Endpoint 4640 started
+2021-10-18T13:52:44.0096746-06:00:2021-10-18T13:52:44.0093068-06:00:OutOfProcessTestAssemblyExecutor: running tests...
+2021-10-18T13:52:44.0958149-06:00:2021-10-18T13:52:44.0954892-06:00:Assembly resolving TechTalk.SpecFlow, Version=3.9.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-10-18T13:52:44.0980980-06:00:2021-10-18T13:52:44.0978932-06:00:[AssemblyCache] Trying to resolve 'TechTalk.SpecFlow' from .deps.json file
+2021-10-18T13:52:44.0999897-06:00:2021-10-18T13:52:44.0997532-06:00:[AssemblyCache] Resolved 'TechTalk.SpecFlow' to 'C:\Users\Ty Mortimer\.nuget\packages\specflow\3.9.8\lib\netstandard2.0\TechTalk.SpecFlow.dll'
+2021-10-18T13:52:44.1754344-06:00:2021-10-18T13:52:44.1750699-06:00:Thread#0:T:-> Loading plugin C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\SpecFlowProject1.dll
+2021-10-18T13:52:44.1764790-06:00:2021-10-18T13:52:44.1762376-06:00:Assembly resolving Microsoft.Extensions.DependencyModel, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-10-18T13:52:44.1768880-06:00:2021-10-18T13:52:44.1767150-06:00:[AssemblyCache] Trying to resolve 'Microsoft.Extensions.DependencyModel' from .deps.json file
+2021-10-18T13:52:44.1777935-06:00:2021-10-18T13:52:44.1773066-06:00:[AssemblyCache] Resolved 'Microsoft.Extensions.DependencyModel' to 'C:\Users\Ty Mortimer\.nuget\packages\microsoft.extensions.dependencymodel\1.0.3\lib\netstandard1.6\Microsoft.Extensions.DependencyModel.dll'
+2021-10-18T13:52:44.2074709-06:00:2021-10-18T13:52:44.2071275-06:00:Assembly resolving Microsoft.DotNet.PlatformAbstractions, Version=1.0.1.0, Culture=neutral, PublicKeyToken=adb9793829ddae60
+2021-10-18T13:52:44.2079792-06:00:2021-10-18T13:52:44.2077762-06:00:[AssemblyCache] Trying to resolve 'Microsoft.DotNet.PlatformAbstractions' from .deps.json file
+2021-10-18T13:52:44.2085010-06:00:2021-10-18T13:52:44.2082796-06:00:[AssemblyCache] Resolved 'Microsoft.DotNet.PlatformAbstractions' to 'C:\Users\Ty Mortimer\.nuget\packages\microsoft.dotnet.platformabstractions\1.0.3\lib\netstandard1.3\Microsoft.DotNet.PlatformAbstractions.dll'
+2021-10-18T13:52:44.2149555-06:00:2021-10-18T13:52:44.2145878-06:00:Thread#0:T:-> Missing [assembly:RuntimePlugin] attribute in SpecFlowProject1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null. Please check https://go.specflow.org/doc-plugins for details.
+2021-10-18T13:52:44.2155167-06:00:2021-10-18T13:52:44.2152910-06:00:Thread#0:T:-> Loading plugin C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\LivingDoc.SpecFlowPlugin.dll
+2021-10-18T13:52:44.2177645-06:00:2021-10-18T13:52:44.2174605-06:00:Assembly resolving LivingDoc.Dtos, Version=3.9.0.0, Culture=neutral, PublicKeyToken=null
+2021-10-18T13:52:44.2182665-06:00:2021-10-18T13:52:44.2180369-06:00:[AssemblyCache] Trying to resolve 'LivingDoc.Dtos' from .deps.json file
+2021-10-18T13:52:44.2187577-06:00:2021-10-18T13:52:44.2185534-06:00:[AssemblyCache] Resolved 'LivingDoc.Dtos' to 'C:\Users\Ty Mortimer\.nuget\packages\specflow.plus.livingdocplugin\3.9.5\lib\netstandard2.0\LivingDoc.Dtos.dll'
+2021-10-18T13:52:44.2204359-06:00:2021-10-18T13:52:44.2201889-06:00:Thread#0:T:-> Loading plugin C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\SpecRun.Runtime.SpecFlowPlugin.dll
+2021-10-18T13:52:44.2281464-06:00:2021-10-18T13:52:44.2276177-06:00:Thread#0:T:-> Using default config
+2021-10-18T13:52:44.2366839-06:00:2021-10-18T13:52:44.2363348-06:00:Assembly resolving Cucumber.Messages, Version=6.0.1.0, Culture=neutral, PublicKeyToken=b10c5988214f940c
+2021-10-18T13:52:44.2370282-06:00:2021-10-18T13:52:44.2368712-06:00:[AssemblyCache] Trying to resolve 'Cucumber.Messages' from .deps.json file
+2021-10-18T13:52:44.2374733-06:00:2021-10-18T13:52:44.2373193-06:00:[AssemblyCache] Resolved 'Cucumber.Messages' to 'C:\Users\Ty Mortimer\.nuget\packages\cucumber.messages\6.0.1\lib\netstandard2.0\Cucumber.Messages.dll'
+2021-10-18T13:52:44.2385765-06:00:2021-10-18T13:52:44.2383690-06:00:Assembly resolving Google.Protobuf, Version=3.7.0.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604
+2021-10-18T13:52:44.2388601-06:00:2021-10-18T13:52:44.2387242-06:00:[AssemblyCache] Trying to resolve 'Google.Protobuf' from .deps.json file
+2021-10-18T13:52:44.2392818-06:00:2021-10-18T13:52:44.2391373-06:00:[AssemblyCache] Resolved 'Google.Protobuf' to 'C:\Users\Ty Mortimer\.nuget\packages\google.protobuf\3.7.0\lib\netstandard1.0\Google.Protobuf.dll'
+2021-10-18T13:52:44.2434753-06:00:2021-10-18T13:52:44.2430399-06:00:Assembly resolving Microsoft.VisualStudio.TestPlatform.ObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a
+2021-10-18T13:52:44.2439707-06:00:2021-10-18T13:52:44.2437468-06:00:[AssemblyCache] Trying to resolve 'Microsoft.VisualStudio.TestPlatform.ObjectModel' from .deps.json file
+2021-10-18T13:52:44.2447181-06:00:2021-10-18T13:52:44.2444208-06:00:[AssemblyCache] Resolved 'Microsoft.VisualStudio.TestPlatform.ObjectModel' to 'C:\Users\Ty Mortimer\.nuget\packages\microsoft.testplatform.objectmodel\16.5.0\lib\netstandard2.0\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll'
+2021-10-18T13:52:44.2619676-06:00:2021-10-18T13:52:44.2614895-06:00:Assembly resolving SpecFlow.Internal.Json, Version=1.0.0.0, Culture=neutral, PublicKeyToken=0778194805d6db41
+2021-10-18T13:52:44.2624974-06:00:2021-10-18T13:52:44.2622715-06:00:[AssemblyCache] Trying to resolve 'SpecFlow.Internal.Json' from .deps.json file
+2021-10-18T13:52:44.2631903-06:00:2021-10-18T13:52:44.2629061-06:00:[AssemblyCache] Resolved 'SpecFlow.Internal.Json' to 'C:\Users\Ty Mortimer\.nuget\packages\specflow.internal.json\1.0.8\lib\netstandard2.0\SpecFlow.Internal.Json.dll'
+2021-10-18T13:52:44.3222319-06:00:Thread#0: Test #4/0 is started on thread #0
+2021-10-18T13:52:44.3337826-06:00:2021-10-18T13:52:44.3334447-06:00:Thread#0:B:Given the first number is 50
+2021-10-18T13:52:44.3443403-06:00:2021-10-18T13:52:44.3438159-06:00:Assembly resolving ClassLibrary1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+2021-10-18T13:52:44.3448164-06:00:2021-10-18T13:52:44.3446006-06:00:[AssemblyCache] Trying to resolve 'ClassLibrary1' from .deps.json file
+2021-10-18T13:52:44.3458920-06:00:2021-10-18T13:52:44.3455710-06:00:[DependencyContextAssemblyCache.ResolveManagedAssembly] Resolving 'ClassLibrary1', found in dependency map, but unable to resolve a path in ['ClassLibrary1.dll']
+2021-10-18T13:52:44.3464487-06:00:2021-10-18T13:52:44.3462095-06:00:[AssemblyCache] Could not resolve 'ClassLibrary1' from .deps.json
+2021-10-18T13:52:44.3480506-06:00:2021-10-18T13:52:44.3476759-06:00:[AssemblyCache] Trying to resolve 'ClassLibrary1' in folder 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0'
+2021-10-18T13:52:44.3513173-06:00:2021-10-18T13:52:44.3509621-06:00:[AssemblyCache] Trying to resolve 'ClassLibrary1' to 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\ClassLibrary1.dll'
+2021-10-18T13:52:44.3518549-06:00:2021-10-18T13:52:44.3516462-06:00:[AssemblyCache] Found file 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\ClassLibrary1.dll' for assembly 'ClassLibrary1'
+2021-10-18T13:52:44.3527653-06:00:2021-10-18T13:52:44.3525571-06:00:[AssemblyCache] Resolved 'ClassLibrary1' to C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\SpecFlowProject1\bin\Debug\net5.0\ClassLibrary1.dll
+2021-10-18T13:52:44.3566126-06:00:2021-10-18T13:52:44.3563109-06:00:Thread#0:T:done: CalculatorStepDefinitions.GivenTheFirstNumberIs(50) (0.0s)
+2021-10-18T13:52:44.3586755-06:00:2021-10-18T13:52:44.3583681-06:00:Thread#0:B:And the second number is 70
+2021-10-18T13:52:44.3604747-06:00:2021-10-18T13:52:44.3600593-06:00:Thread#0:T:done: CalculatorStepDefinitions.GivenTheSecondNumberIs(70) (0.0s)
+2021-10-18T13:52:44.3613088-06:00:2021-10-18T13:52:44.3610376-06:00:Thread#0:B:When the two numbers are added
+2021-10-18T13:52:44.3632092-06:00:2021-10-18T13:52:44.3628637-06:00:Thread#0:T:done: CalculatorStepDefinitions.WhenTheTwoNumbersAreAdded() (0.0s)
+2021-10-18T13:52:44.3638693-06:00:2021-10-18T13:52:44.3636905-06:00:Thread#0:B:Then the result should be 120
+2021-10-18T13:52:44.3646601-06:00:2021-10-18T13:52:44.3644615-06:00:Assembly resolving FluentAssertions, Version=5.10.3.0, Culture=neutral, PublicKeyToken=33f2691a05b67b6a
+2021-10-18T13:52:44.3649633-06:00:2021-10-18T13:52:44.3648221-06:00:[AssemblyCache] Trying to resolve 'FluentAssertions' from .deps.json file
+2021-10-18T13:52:44.3654979-06:00:2021-10-18T13:52:44.3653115-06:00:[AssemblyCache] Resolved 'FluentAssertions' to 'C:\Users\Ty Mortimer\.nuget\packages\fluentassertions\5.10.3\lib\netcoreapp2.1\FluentAssertions.dll'
+2021-10-18T13:52:44.3690060-06:00:2021-10-18T13:52:44.3686174-06:00:Thread#0:T:done: CalculatorStepDefinitions.ThenTheResultShouldBe(120) (0.0s)
+2021-10-18T13:52:44.3760548-06:00:Thread#0:Scheduler: get next test for thread 0
+2021-10-18T13:52:44.3760799-06:00:Thread#:Scheduler: testitem #5 from normal test queue 
+2021-10-18T13:52:44.3760818-06:00:Thread#0:Scheduler: considering testitem #5 for thread 0
+2021-10-18T13:52:44.3761133-06:00:Thread#0:TestItem#5:testItemMatchesCurrentTestThread:UnSpecific
+2021-10-18T13:52:44.3761160-06:00:Thread#0:TestItem#5:runsOnOneOtherThreadSpecific:False
+2021-10-18T13:52:44.3761170-06:00:Thread#0:TestItem#5:runsOnOneOtherThreadUnspecific:False
+2021-10-18T13:52:44.3761181-06:00:Thread#0:Scheduler: using testitem #5 for thread 0
+2021-10-18T13:52:44.3761259-06:00:Thread#0:Scheduler: Test #5 is scheduled for thread
+2021-10-18T13:52:44.3761323-06:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2021-10-18T13:52:44.4059540-06:00:Thread#0: Test #4/0 is finished on thread #0 as Succeeded within 0.083188 seconds
+2021-10-18T13:52:44.4077266-06:00:Thread#0: Test #5/0 is started on thread #0
+2021-10-18T13:52:44.4087374-06:00:2021-10-18T13:52:44.4085215-06:00:Thread#0:B:Given the first number is 50
+2021-10-18T13:52:44.4093685-06:00:2021-10-18T13:52:44.4091399-06:00:Thread#0:T:done: CalculatorStepDefinitions.GivenTheFirstNumberIs(50) (0.0s)
+2021-10-18T13:52:44.4098870-06:00:2021-10-18T13:52:44.4096478-06:00:Thread#0:B:And the second number is 70
+2021-10-18T13:52:44.4104264-06:00:2021-10-18T13:52:44.4102005-06:00:Thread#0:T:done: CalculatorStepDefinitions.GivenTheSecondNumberIs(70) (0.0s)
+2021-10-18T13:52:44.4110628-06:00:2021-10-18T13:52:44.4107209-06:00:Thread#0:B:When the two numbers are subtracted
+2021-10-18T13:52:44.4122492-06:00:2021-10-18T13:52:44.4119479-06:00:Thread#0:T:done: CalculatorStepDefinitions.WhenTwoNumbersAreAdded() (0.0s)
+2021-10-18T13:52:44.4127840-06:00:2021-10-18T13:52:44.4125813-06:00:Thread#0:B:Then the result should be -20
+2021-10-18T13:52:44.4133172-06:00:2021-10-18T13:52:44.4130965-06:00:Thread#0:T:done: CalculatorStepDefinitions.ThenTheResultShouldBe(-20) (0.0s)
+2021-10-18T13:52:44.4143690-06:00:Thread#0:Scheduler: get next test for thread 0
+2021-10-18T13:52:44.4143993-06:00:Thread#:Scheduler: at the end of normal test queue
+2021-10-18T13:52:44.4144041-06:00:Thread#0:Scheduler: enumerator for thread is at end
+2021-10-18T13:52:44.4144083-06:00:Thread#0:Scheduler: No more tests for thread
+2021-10-18T13:52:44.4168308-06:00:Thread#0: Test #5/0 is finished on thread #0 as Succeeded within 0.0090611 seconds
+2021-10-18T13:52:44.4218132-06:00:2021-10-18T13:52:44.4215416-06:00:Got Deinitialize Signal
+2021-10-18T13:52:44.4240197-06:00:RPC Client disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-10-18T13:52:44.4246698-06:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Reached end of stream.
+Exception:<none>
+2021-10-18T13:52:44.4256849-06:00:RPC Server disconnected, because 'Disposed'. 
+LastMessage: 
+Description:Stream has been disposed
+Exception:<none>
+2021-10-18T13:52:44.4314635-06:00:Thread#-1:Scheduler: get next test for thread -1
+2021-10-18T13:52:44.4314942-06:00:Thread#:Scheduler: at the end of normal test queue
+2021-10-18T13:52:44.4314960-06:00:Thread#-1:Scheduler: enumerator for thread is at end
+2021-10-18T13:52:44.4325428-06:00;Thread#12;Info;test run finished
+2021-10-18T13:52:44.4327029-06:00;Thread#12;Info;publishing test results
+2021-10-18T13:52:44.4327845-06:00;Thread#12;Info;Not publishing results.
+2021-10-18T13:52:44.4328256-06:00;Thread#12;Info;test results published
+2021-10-18T13:52:44.4328537-06:00;Thread#12;Info;generating reports
+2021-10-18T13:52:44.4874069-06:00;Thread#12;Info;Starting external report generation process
+2021-10-18T13:52:45.8135447-06:00;Thread#12;Info;Successfully generated reports.
+2021-10-18T13:52:45.8154097-06:00;Thread#12;Info;Successfully generated reports
+2021-10-18T13:52:45.8217678-06:00:Total: 2
+2021-10-18T13:52:45.8231151-06:00:Succeeded: 2
+2021-10-18T13:52:45.8233361-06:00:Ignored: 0
+2021-10-18T13:52:45.8234964-06:00:Pending: 0
+2021-10-18T13:52:45.8235018-06:00:Skipped: 0
+2021-10-18T13:52:45.8236472-06:00:Failed: 0
+2021-10-18T13:52:45.8282891-06:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2021-10-18T13:52:45.8283683-06:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\Ty Mortimer\Desktop\inclass\inClassProject1\TestResults\Unnamed project__2021-10-18T135243.html'
+========== End of log file ==========
